@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  likhita:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-01T11:46:28.0814532Z"
+    description: A Helm chart for Kubernetes
+    digest: 290e63fb66156c6a927e0f806925662dbcd6d1bedba492bb3be6fd6bc7569352
+    name: likhita
+    type: application
+    urls:
+    - likhita-0.1.0.tgz
+    version: 0.1.0
+  mustafa:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-01T11:46:28.081880086Z"
+    description: A Helm chart for Kubernetes
+    digest: 11476937da92403168335ac906dde7c5271f424a63788411f0831acd537d1e2c
+    name: mustafa
+    type: application
+    urls:
+    - myjesus/mustafa-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-01T11:46:28.080829527Z"
